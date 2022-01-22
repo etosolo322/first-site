@@ -22,7 +22,6 @@ h1{
 h6{
     display: flex;
     justify-content: flex-start;
-    align-items: center;
     font-size: 15px;
     color:rgb(83, 80, 81)
 }
