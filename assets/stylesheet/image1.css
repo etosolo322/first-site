@@ -30,9 +30,6 @@
 
 }
 
-.text_list_images hr{
-
-}
 .text_list_images{
     display: flex;
     flex-direction: column;
