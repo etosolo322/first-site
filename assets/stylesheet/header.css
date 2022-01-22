@@ -47,8 +47,7 @@ align-self: flex-start;
     color: white;
     align-self: flex-start;
 }
-.grey_panel_left hr{
-    width: 55px;
+.grey_panel_left hr{  
     height: 1px;
     background-color: white;
     border:1px solid white;
