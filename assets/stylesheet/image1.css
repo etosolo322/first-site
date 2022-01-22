@@ -24,6 +24,7 @@
 }
 .text_list_images{
      width: 50%;
+     
 }
 .text_list_images span{
     color: black;
@@ -42,9 +43,7 @@
     flex-direction: column;
     gap: 30px;
 }
-.text_list_images div{
-    color:rgb(83, 80, 81)
-}
+
 .class_list1{
     display: flex;
 }
