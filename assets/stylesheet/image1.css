@@ -1,4 +1,5 @@
 .image_panel1{
+    padding-top: 20px;
     min-height: 550px;
     display: flex;
     justify-content: center;
@@ -6,7 +7,9 @@
     max-width: 100%;
 }
 .image_panel2{
-    background-color: rgb(229, 226, 229);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #f5f5f5;
     min-height: 400px;
     display: flex;
     justify-content: center;
@@ -24,20 +27,9 @@
 }
 .text_list_images{
      width: 50%;
-     
+
 }
-.text_list_images span{
-    color: black;
-    font-weight: 900;
-    font-size: 20px;
-}
-.text_list_images hr{
-   width: 50px;
-   background-color: orange;
-   border-radius: 5px;
-   border:1px solid orange;
-   box-shadow: 0 0 5px 1px rgb(171, 173, 172);
-}
+
 .text_list_images{
     display: flex;
     flex-direction: column;

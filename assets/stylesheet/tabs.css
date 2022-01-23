@@ -1,5 +1,5 @@
 .panel_tabs{
-    background-color: rgb(229, 226, 229);
+    background-color: #f5f5f5;
     min-height: 450px;
     display: flex;
     gap: 20px;
@@ -25,7 +25,7 @@
  box-shadow: 0 0 20px 2px rgb(25, 56, 56);
 }
 .button_tabs div:hover{
-    background-color: orange;
+    background-color: #ff8b38;
     cursor: pointer;
 }
 .text_tabs{
@@ -47,13 +47,10 @@
 .images_tabs img{
     max-height: 250px;
 }
-.title_text_tab{
-    font-weight: 700;
-}
 
 .download_text_tab{
     padding:10px 20px;
-    background-color: orange;
+    background-color: #ff8b38;
     width: max-content;
     color:white;
     border-radius: 8px;
