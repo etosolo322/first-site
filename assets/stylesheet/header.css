@@ -28,7 +28,7 @@ header{
     padding-bottom: 50px;
     background-color: rgb(139, 138, 138);
     min-height: 500px;
-    
+    justify-content: space-around;
 }
 .grey_panel_container > div{
     display: flex;
